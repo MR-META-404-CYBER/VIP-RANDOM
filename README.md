@@ -8,7 +8,7 @@
 
 * `git clone https://github.com/MR-META-404-CYBER/VIP-RANDOM.git`
 
-* `cd VIP-RANDOM-CLONING`
+* `cd VIP-RANDOM`
 
 * `python VIP-RANDOM.py`
 
